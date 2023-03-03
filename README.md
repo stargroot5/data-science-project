@@ -1,15 +1,3 @@
-#data science project
-#declarations
-'import pandas as pd
-import time
-import numpy as np
-import re
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import Select
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-
-import undetected_chromedriver as uc'
-
+[the code](https://github.com/stargroot5/data-science-project/blob/main/project.ipynb)
+[the data](https://github.com/stargroot5/data-science-project/blob/main/data.csv)
 
